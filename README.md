@@ -16,6 +16,8 @@ Atari Jaguar (Unstable)
 
 Basic Master Jnr. (Unstable)
 
+Elan Enterprise (Unstable)
+
 FM Towns (Unstable)
 
 Konix Multisystem (Unstable)

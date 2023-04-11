@@ -26,4 +26,8 @@ Nand2Tetris (Unstable)
 
 PC-98 (Unstable)
 
+SparcStation 5 (Unstable)
+
+SparcStation 20 (Unstable)
+
 Thomson MO5/MO6 (Unstable)

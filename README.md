@@ -3,7 +3,6 @@ This is a database for the MiSTer project that downloads Work In Progress cores 
 To use it simply copy and paste the below to the bottom of your downloader.ini file (found at: /media/fat/downloader.ini )
 
 [ajgowans/wip]
-
 db_url = https://raw.githubusercontent.com/ajgowans/wip/db/db.json.zip
 
 

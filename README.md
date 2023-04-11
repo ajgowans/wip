@@ -16,6 +16,8 @@ Atari Jaguar (Unstable)
 
 Basic Master Jnr. (Unstable)
 
+FM Towns (Unstable)
+
 Konix Multisystem (Unstable)
 
 PC-98 (Unstable)

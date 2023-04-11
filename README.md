@@ -15,3 +15,5 @@ Battletoads (Arcades)
 Atari Jaguar (Unstable)
 
 Konix Multisystem (Unstable)
+
+PC-98 (Unstable)

@@ -8,6 +8,8 @@ db_url = https://raw.githubusercontent.com/ajgowans/wip/db/db.json.zip
 
 
 
-Currently included cores:
+Currently included cores + (folder placed in):
 
-Battletoads
+Battletoads (Arcades)
+Atari Jaguar (Unstable)
+Konix Multisystem (Unstable)

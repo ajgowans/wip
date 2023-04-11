@@ -25,3 +25,5 @@ Konix Multisystem (Unstable)
 Nand2Tetris (Unstable)
 
 PC-98 (Unstable)
+
+Thomson MO5/MO6 (Unstable)

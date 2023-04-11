@@ -24,6 +24,8 @@ Konix Multisystem (Unstable)
 
 Nand2Tetris (Unstable)
 
+Neo Geo CD (Unstable)
+
 PC-98 (Unstable)
 
 SparcStation 5 (Unstable)

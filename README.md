@@ -7,6 +7,6 @@ db_url = https://raw.githubusercontent.com/ajgowans/wip/db/db.json.zip
 
 
 
-[u]Currently included cores:[/u]
+Currently included cores:
 
 Battletoads

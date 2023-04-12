@@ -12,6 +12,8 @@ Currently included cores + (folder placed in):
 
 Battletoads (Arcades)
 
+Acorn System 1 (Unstable)
+
 Atari Jaguar (Unstable)
 
 Basic Master Jnr. (Unstable)
@@ -36,7 +38,7 @@ Thomson MO5/MO6 (Unstable)
 
 240p Test Suite Core (Unstable)
 
-memtest (2nd RAM Slot) (Unstable)
+Memtest (2nd RAM Slot) (Unstable)
 
 JT SDRAM Test 48k (Unstable)
 

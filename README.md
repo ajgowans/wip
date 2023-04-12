@@ -33,3 +33,17 @@ SparcStation 5 (Unstable)
 SparcStation 20 (Unstable)
 
 Thomson MO5/MO6 (Unstable)
+
+240p Test Suite Core (Unstable)
+
+memtest (2nd RAM Slot) (Unstable)
+
+JT SDRAM Test 48k (Unstable)
+
+JT SDRAM Test 96k (Unstable)
+
+Mandlebrot
+
+
+
+

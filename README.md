@@ -46,7 +46,7 @@ JT SDRAM Test 48k (Unstable)
 
 JT SDRAM Test 96k (Unstable)
 
-Mandlebrot
+Mandlebrot (Unstable)
 
 
 

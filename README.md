@@ -22,6 +22,8 @@ Elan Enterprise (Unstable)
 
 FM Towns (Unstable)
 
+Gigatron (Unstable)
+
 Konix Multisystem (Unstable)
 
 Nand2Tetris (Unstable)

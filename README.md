@@ -1,3 +1,5 @@
+# The MiSTer Database For Work In Progress Core 
+
 This is a database for the MiSTer project that downloads Work In Progress cores and associated files, that are not currently in Main.
 
 To use it simply copy and paste the below to the bottom of your downloader.ini file (found at: /media/fat/downloader.ini )
@@ -8,13 +10,13 @@ db_url = https://raw.githubusercontent.com/ajgowans/wip/db/db.json.zip
 ```
 
 
-Currently included cores + (folder placed in):
+ ## Currently included cores + (folder placed in):
 
 Battletoads (Arcades)
 
 Acorn System 1 (Unstable)
 
-Atari Jaguar (Unstable)
+Atari Jaguar (Unstable) (note: requires dual RAM)
 
 Basic Master Jnr. (Unstable)
 

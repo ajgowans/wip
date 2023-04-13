@@ -12,7 +12,12 @@ db_url = https://raw.githubusercontent.com/ajgowans/wip/db/db.json.zip
 
  ## Currently included cores + (folder placed in):
 
+
+### Arcade Cores (In "Arcade" Folder)
+
 Battletoads (Arcades)
+
+### Console Cores (In "Unstable" Folder)
 
 Acorn System 1 (Unstable)
 

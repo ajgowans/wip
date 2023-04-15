@@ -2,7 +2,7 @@
 
 This is a database for the MiSTer project that downloads Work In Progress cores and associated files, that are not currently in Main.  Most of these cores are unstable and you should know this before using them.  
 
-Do NOT raise any issues for the cores downloaded unless the devloper explicltly has asked for them.  Doing so may result in a developer requesting their cores be removed from the database.  Any developer who decides they no longer want their core included please just request for it to be removed.  
+Do NOT raise any issues for the cores downloaded unless the developer explicitly has asked for them.  Doing so may result in a developer requesting their cores be removed from the database.  Any developer who decides they no longer want their core included please just request for it to be removed.  
 
 To use it simply copy and paste the below to the bottom of your downloader.ini file (found at: /media/fat/downloader.ini )
 

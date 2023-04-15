@@ -23,60 +23,63 @@ Battletoads (Arcades)
 
 ### Console Cores (In "Unstable" Folder)
 
-Atari Jaguar (Unstable) (note: requires dual RAM)<br>
+Atari Jaguar (note: requires dual RAM)<br>
 https://github.com/Kitrinx/Jaguar_MiSTer
 
-Konix Multisystem (Unstable)<br>
+Konix Multisystem <br>
 https://github.com/SavourySnaX/MiSTer_KonixMultisystem
 
 
 ### Computer Cores (In "Unstable" Folder)
 
-Acorn System 1 (Unstable)<br>
+Acorn System 1 <br>
 https://github.com/davewoo999/Acorn_System1_MiSTer
 
-Basic Master Jnr. (Unstable)<br>
+Basic Master Jnr. <br>
 https://github.com/pcornier/BasicMasterJr_MiSTer
 
-Elan Enterprise (Unstable)<br>
+Elan Enterprise <br>
 http://retrowiki.es/viewtopic.php?f=107&t=200037978&p=200154146#p200154146
 
-FM Towns (Unstable)
+FM Towns 
 
-PC-98 (Unstable)
+PC-98 
 
-SparcStation 5 (Unstable)<br>
+SparcStation 5 <br>
 http://temlib.org/pub/mister/SS
 
-SparcStation 20 (Unstable)<br>
+SparcStation 20 <br>
 http://temlib.org/pub/mister/SS
 
-Thomson MO5/MO6 (Unstable)<br>
+Thomson MO5/MO6 <br>
 https://github.com/Grabulosaure/MO_MiSTe
+
+X68000 (Puu's fork) (note: keyboard doesn't work, less stable fork than current one in Main repo)
+http://fpga8801.seesaa.net/archives/20220716-1.html
 
 ### Utility Cores (In "Unstable" Folder)
 
-240p Test Suite Core (Unstable)<br>
+240p Test Suite Core <br>
 https://github.com/burabure/240p_MiSTer
 
-Memtest (2nd RAM Slot) (Unstable)<br>
+Memtest (2nd RAM Slot) <br>
 https://github.com/birdybro/MemTest_MiSTer/tree/dual_sdram_test
 
-JT SDRAM Test 48k (Unstable)<br>
+JT SDRAM Test 48k <br>
 https://github.com/jotego/jtbin/blob/master/mister/sdram48
 
-JT SDRAM Test 96k (Unstable)<br>
+JT SDRAM Test 96k <br>
 https://github.com/jotego/jtbin/blob/master/mister/sdram96
 
 
 ### Other Cores (In "Unstable" Folder)
 
-Gigatron (Unstable)<br>
+Gigatron <br>
 https://github.com/sajattack/Gigatron_MiSTer
 
-Mandlebrot (Unstable)<br>
+Mandlebrot <br>
 https://github.com/jacquesdriessen/MiSTer-mandelbrot
 
-Nand2Tetris (Unstable)<br>
+Nand2Tetris <br>
 https://github.com/sajattack/Hack_MiSTer
 

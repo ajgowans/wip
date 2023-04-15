@@ -49,12 +49,16 @@ Thomson MO5/MO6 (Unstable)
 ### Utility Cores (In "Unstable" Folder)
 
 240p Test Suite Core (Unstable)
+https://github.com/burabure/240p_MiSTer
 
 Memtest (2nd RAM Slot) (Unstable)
+https://github.com/birdybro/MemTest_MiSTer/tree/dual_sdram_test
 
 JT SDRAM Test 48k (Unstable)
+https://github.com/jotego/jtbin/blob/master/mister/sdram48
 
 JT SDRAM Test 96k (Unstable)
+https://github.com/jotego/jtbin/blob/master/mister/sdram96
 
 
 ### Other Cores (In "Unstable" Folder)

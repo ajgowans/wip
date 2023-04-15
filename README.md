@@ -20,31 +20,36 @@ Battletoads (Arcades)
 
 ### Console Cores (In "Unstable" Folder)
 
-Atari Jaguar (Unstable) (note: requires dual RAM)
+Atari Jaguar (Unstable) (note: requires dual RAM)<br>
+https://github.com/Kitrinx/Jaguar_MiSTer
 
-Konix Multisystem (Unstable)
-
-Neo Geo CD (Unstable)
+Konix Multisystem (Unstable)<br>
+https://github.com/SavourySnaX/MiSTer_KonixMultisystem
 
 
 ### Computer Cores (In "Unstable" Folder)
 
-Acorn System 1 (Unstable)
+Acorn System 1 (Unstable)<br>
+https://github.com/davewoo999/Acorn_System1_MiSTer
 
-Basic Master Jnr. (Unstable)
+Basic Master Jnr. (Unstable)<br>
+https://github.com/pcornier/BasicMasterJr_MiSTer
 
-Elan Enterprise (Unstable)
+Elan Enterprise (Unstable)<br>
+http://retrowiki.es/viewtopic.php?f=107&t=200037978&p=200154146#p200154146
 
 FM Towns (Unstable)
 
 PC-98 (Unstable)
 
-SparcStation 5 (Unstable)
+SparcStation 5 (Unstable)<br>
+http://temlib.org/pub/mister/SS
 
-SparcStation 20 (Unstable)
+SparcStation 20 (Unstable)<br>
+http://temlib.org/pub/mister/SS
 
-Thomson MO5/MO6 (Unstable)
-
+Thomson MO5/MO6 (Unstable)<br>
+https://github.com/Grabulosaure/MO_MiSTe
 
 ### Utility Cores (In "Unstable" Folder)
 
@@ -63,9 +68,12 @@ https://github.com/jotego/jtbin/blob/master/mister/sdram96
 
 ### Other Cores (In "Unstable" Folder)
 
-Gigatron (Unstable)
+Gigatron (Unstable)<br>
+https://github.com/sajattack/Gigatron_MiSTer
 
-Mandlebrot (Unstable)
+Mandlebrot (Unstable)<br>
+https://github.com/jacquesdriessen/MiSTer-mandelbrot
 
-Nand2Tetris (Unstable)
+Nand2Tetris (Unstable)<br>
+https://github.com/sajattack/Hack_MiSTer
 

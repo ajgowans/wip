@@ -29,6 +29,8 @@ https://github.com/Kitrinx/Jaguar_MiSTer
 Konix Multisystem <br>
 https://github.com/SavourySnaX/MiSTer_KonixMultisystem
 
+Neo Geo CD
+
 
 ### Computer Cores (In "Unstable" Folder)
 
@@ -82,4 +84,7 @@ https://github.com/jacquesdriessen/MiSTer-mandelbrot
 
 Nand2Tetris <br>
 https://github.com/sajattack/Hack_MiSTer
+
+Tamagochi <br>
+https://github.com/agg23/fpga-tamagotchi
 

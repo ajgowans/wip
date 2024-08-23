@@ -27,7 +27,9 @@ Atari Jaguar (note: requires dual RAM)<br>
 https://github.com/Kitrinx/Jaguar_MiSTer
 
 Konix Multisystem <br>
-https://github.com/SavourySnaX/MiSTer_KonixMultisystem
+https://github.com/SavourySnaX/MiSTer_KonixMultisystem<br>
+
+Philips CD-i<br>
 
 Super Cassette Vision
 

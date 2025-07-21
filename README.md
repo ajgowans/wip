@@ -29,10 +29,6 @@ https://github.com/Kitrinx/Jaguar_MiSTer
 Konix Multisystem <br>
 https://github.com/SavourySnaX/MiSTer_KonixMultisystem<br>
 
-Philips CD-i<br>
-
-Super Cassette Vision
-
 ### Computer Cores (In "Unstable" Folder)
 
 Acorn System 1 <br>

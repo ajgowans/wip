@@ -53,9 +53,6 @@ http://temlib.org/pub/mister/SS
 Thomson MO5/MO6 <br>
 https://github.com/Grabulosaure/MO_MiSTe
 
-X68000 (Puu's fork) (note: keyboard doesn't work, less stable fork than current one in Main repo)
-http://fpga8801.seesaa.net/archives/20220716-1.html
-
 ### Utility Cores (In "Unstable" Folder)
 
 240p Test Suite Core <br>

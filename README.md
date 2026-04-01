@@ -23,6 +23,8 @@ Battletoads (Arcades)
 
 ### Console Cores (In "Unstable" Folder)
 
+3DO
+
 Atari Jaguar (note: requires dual RAM)<br>
 https://github.com/Kitrinx/Jaguar_MiSTer
 
@@ -82,6 +84,4 @@ https://github.com/jacquesdriessen/MiSTer-mandelbrot
 Nand2Tetris <br>
 https://github.com/sajattack/Hack_MiSTer
 
-Tamagochi <br>
-https://github.com/agg23/fpga-tamagotchi
 

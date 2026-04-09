@@ -12,11 +12,6 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-    - name: Install apt-get utilities
-      run: sudo apt-get install detox sharutils
-
-    - uses: actions/checkout@v2
-
     - name: Build Custom Database for MiSTer Downloader
       run: set -o pipefail && curl --fail --location https://raw.githubusercontent.com/theypsilon/Downloader_DB-Template_MiSTer/main/.github/build_db.py | python3 -
       env:
